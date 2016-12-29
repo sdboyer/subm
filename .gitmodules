@@ -1,3 +1,6 @@
 [submodule "subm1"]
 	path = subm1
 	url = https://github.com/sdboyer/subm1
+[submodule "subm-again"]
+	path = subm-again
+	url = https://github.com/sdboyer/subm1
