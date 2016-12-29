@@ -1,0 +1,3 @@
+[submodule "subm1"]
+	path = subm1
+	url = https://github.com/sdboyer/subm1
